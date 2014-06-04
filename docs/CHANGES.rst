@@ -4,6 +4,9 @@ Changelog
 1.2.0 (unreleased)
 ------------------
 
+- Remove Plone from requirements.
+  [ferewuz]
+
 - Add ``api.env.plone_version()`` and ``api.env.zope_version()`` refs. #126.
   [hvelarde]
 
